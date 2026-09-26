@@ -1,0 +1,4 @@
+This is the data science batch
+Instructor name is Akshay
+Student is Kunal
+Data Science is easy to learn and implement
